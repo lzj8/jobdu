@@ -1,0 +1,4 @@
+bin/*
+*.class
+cplusplus/Debug/*
+*.DS_Store
